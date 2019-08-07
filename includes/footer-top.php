@@ -40,7 +40,7 @@
                 <h3>About <i class="fa fa-plus"></i></h3>
                 <ul>
                     <!--<li><a href="#">Frequently Asked Questions</a></li>-->
-                    <li><a href="tel:+441617680746 " class="bluecolr">+44 161 768 0746 </a></li>
+                    <li><a href="tel:+18627721016" class="bluecolr">+1 862 772 1016</a></li>
                     <li>One gateway center, Newark, New Jersey, USA <br> <br>   <a href="https://goo.gl/maps/zprHU819QK5tRo176" style="font-weight: bold;">Go to location</a></li>
                     <li>39899 Balentine Drive, Newark, California, 94560, USA<br> <a href="https://goo.gl/maps/NP1C31dUhhYu3sMA8" style="font-weight: bold;">Go to location</a></li>
                     

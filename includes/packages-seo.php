@@ -10,7 +10,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£350 <span class="fm">First Month</span></h2>
+              <h2>$350 <span class="fm">First Month</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for newly formed organizations or small incubated startups</p>
@@ -55,8 +55,8 @@
               <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
               <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
                 <div class="addnotes ">
-                  <p>£950 – Quarterly Plan</p>
-                  <p>£300 – Recurring Monthly Payment</p>
+                  <p>$950 – Quarterly Plan</p>
+                  <p>$300 – Recurring Monthly Payment</p>
                   
                   
                 </div>
@@ -73,7 +73,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£700 <span class="fm">First Month</span></h2>
+              <h2>$700 <span class="fm">First Month</span></h2>
             </div>
             <div class="packinner">
               <p>For medium-sized stable organizations looking to climb up the corporate ladder.</p>
@@ -121,8 +121,8 @@
               <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
               <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
               <div class="addnotes ">
-            <p>£1600 – Quarterly Plan</p>
-            <p>£450 – Recurring Monthly Payment</p>
+            <p>$1600 – Quarterly Plan</p>
+            <p>$450 – Recurring Monthly Payment</p>
               
               
             </div>
@@ -139,7 +139,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£1200 <span class="fm">First Month</span></h2>
+              <h2>$1200 <span class="fm">First Month</span></h2>
             </div>
             <div class="packinner">
               <p>For pre-established businesses that aim to maintain their presence and claim the crown.</p>
@@ -189,8 +189,8 @@
               <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
               <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
               <div class="addnotes ">
-                <p>£2600 – Quarterly Plan</p>
-                <p>£700 – Recurring Monthly Payment</p>
+                <p>$2600 – Quarterly Plan</p>
+                <p>$700 – Recurring Monthly Payment</p>
               
               
             </div>

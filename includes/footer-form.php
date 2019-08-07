@@ -35,8 +35,8 @@
             <span><input type="text" name="useremail" value="" size="40" class="input" required /></span>
             <label>Email</label>
         </div>
-        <div class="app-input-group order-phone">
-            <span><input type="text" name="userphone" id="phone-coun" value="" size="40" class="input" required  placeholder="Phone"/></span>
+        <div class="app-input-group">
+            <span><input type="text" name="userphone" value="" size="40" class="input" id="phone" placeholder="Phone" required  /></span>
             <!--<label>Phone</label>-->
         </div>
         <div class="app-input-group">
@@ -56,10 +56,10 @@
                 document.getElementById('blocation').value = window.location.href;
               </script>
               <input type="hidden" name="hiddencapcha" value="">
+                 <input class="" type="hidden" name="ctry" value="">
+                     <input type="hidden" name="pc" value="">
+                     <input type="hidden" name="cip">
               <input type="hidden" id="blocation" name="blocationURL" value="" />
-              <input type="hidden" name="pc" value="">
-                        <input type="hidden" name="ctry" value="">
-                         <input type="hidden" name="cip" value="">
             </div>
             </form>
         </div>

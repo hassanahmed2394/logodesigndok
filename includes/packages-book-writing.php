@@ -10,7 +10,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£400.00<span class="fm"></span></h2>
+              <h2>$400.00<span class="fm"></span></h2>
             </div>
             <div class="packinner">
               <p>Payable Amount</p>
@@ -43,7 +43,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£3,900.00<span class="fm"></span></h2>
+              <h2>$3,900.00<span class="fm"></span></h2>
             </div>
             <div class="packinner">
               <p>Payable Amount</p>
@@ -76,7 +76,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£900.00<span class="fm"></span></h2>
+              <h2>$900.00<span class="fm"></span></h2>
             </div>
             <div class="packinner">
               <p>Payable Amount</p>
@@ -109,7 +109,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£7,000.00<span class="fm"></span></h2>
+              <h2>$7,000.00<span class="fm"></span></h2>
             </div>
             <div class="packinner">
               <p>Payable Amount</p>
@@ -142,7 +142,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£500.00<span class="fm"></span></h2>
+              <h2>$500.00<span class="fm"></span></h2>
             </div>
             <div class="packinner">
               <p>Payable Amount</p>
@@ -175,7 +175,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£500.00<span class="fm"></span></h2>
+              <h2>$500.00<span class="fm"></span></h2>
             </div>
             <div class="packinner">
               <p>Payable Amount</p>
@@ -208,7 +208,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£2,400.00<span class="fm"></span></h2>
+              <h2>$2,400.00<span class="fm"></span></h2>
             </div>
             <div class="packinner">
               <p>Payable Amount</p>
@@ -241,7 +241,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£900.00<span class="fm"></span></h2>
+              <h2>$900.00<span class="fm"></span></h2>
             </div>
             <div class="packinner">
               <p>Payable Amount</p>

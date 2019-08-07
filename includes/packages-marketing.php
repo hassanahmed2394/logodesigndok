@@ -7,7 +7,7 @@
         <p class="">Startup</p>
       </div>
       <div class="packpricing">
-        <h2>£699 <span class="strike">£1299</span></h2>
+        <h2>$699 <span class="strike">$1299</span></h2>
       </div>
       <div class="packinner">
         <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p>
@@ -43,7 +43,7 @@
         <p class="">Essentials</p>
       </div>
       <div class="packpricing">
-        <h2>£799.99 <span class="strike">£1599.99</span></h2>
+        <h2>$799.99 <span class="strike">$1599.99</span></h2>
       </div>
       <div class="packinner">
         <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p>
@@ -84,7 +84,7 @@
         <p class="">Business</p>
       </div>
       <div class="packpricing">
-        <h2>£1200.99 <span class="strike">£2999.99</span></h2>
+        <h2>$1200.99 <span class="strike">$2999.99</span></h2>
       </div>
       <div class="packinner">
         <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p>

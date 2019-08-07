@@ -10,7 +10,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£794.00 <span class="strike">£1,588.00 Only</span></h2>
+              <h2>$794.00 <span class="strike">$1,588.00 Only</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -36,7 +36,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
           </div>
         </div>
       </div>
@@ -51,7 +51,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£1,394.00 <span class="strike">£2,788.00 Only</span></h2>
+              <h2>$1,394.00 <span class="strike">$2,788.00 Only</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -78,7 +78,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
             
             
           </div>
@@ -95,7 +95,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£2499.99 <span class="strike">£4999.99</span></h2>
+              <h2>$2499.99 <span class="strike">$4999.99</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -129,7 +129,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
             
             
           </div>

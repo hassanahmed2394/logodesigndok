@@ -35,6 +35,9 @@ if(isset($_REQUEST['hiddencapcha']) && $_REQUEST['hiddencapcha'] == "" ){
 
 $body .= "Name: ".$_REQUEST['username']." \n";
 $body .= "Email: ".$_REQUEST['useremail']." \n";
+$body .= "Country Code: ".$_REQUEST['pc']." \n";
+$body .= "Country Name: ".$_REQUEST['ctry']." \n";
+$body .= "Visitor's IP: ".$_REQUEST['cip']." \n";
 $body .= "Phone: ".$_REQUEST['userphone']." \n";
 $body .= "Detail: ".$_REQUEST['userdetail']." \n";
 $body .= "Page URL: ".$_REQUEST['blocationURL']." \n";
@@ -70,6 +73,7 @@ $body .= "file: ".$target." \n";
 
 
 
+
 if (mysqli_connect_errno()){  echo "Failed to connect to MySQL: " . mysqli_connect_error(); }
 else{ $sql = 'insert into bottomFORM (cust_name,cust_email,cust_phonenumber,cust_message,pageURL,service_interest,attachment_path,countryName,countryCode,VisitorIP) values 
 
@@ -79,7 +83,6 @@ else{ $sql = 'insert into bottomFORM (cust_name,cust_email,cust_phonenumber,cust
 mysqli_query($con,$sql);
 mysqli_close($con);
 }
-
 
 
 $headers = "From: " . $sender . "\r\n";

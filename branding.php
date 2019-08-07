@@ -42,7 +42,7 @@ $urhere = "homepage";
     <div class="col-lg-6 height-dog">
         <div class="content" id="test">
         <h1 class="title for-anim-1">
-        <span><i>Start your branding with just £99.99. You will love it.</i></span>
+        <span><i>Start your branding with just $99.99. You will love it.</i></span>
 
         </h1>
         <p class="for-anim-2"><span>Working with a professional designer to codify font, color and style choices can sure make it look good.</span></p>
@@ -299,7 +299,7 @@ $urhere = "homepage";
                                     <h3 class="text-left">
 
                                     <span>Call us </span>
-                                    +44 161 768 0746 </h3>
+                                    +1 862 772 1016</h3>
 <div class="slash"></div>
                            
                         </div>
@@ -312,7 +312,7 @@ $urhere = "homepage";
                                     <h3 class="text-left">
                                    
                                     <span>Discuss your Ideas</span>
-                                   order@logodesigndok.co.uk</h3>
+                                   order@logodesigndok.com</h3>
 
                            
                         </div>
@@ -326,7 +326,7 @@ $urhere = "homepage";
                                     <h3 class="text-left">
                                    
                                     <span>Call Toll Free</span>
-                                    +44 161 768 0746 </h3>
+                                    +1 862 772 1016</h3>
  
                            
                         </div>
@@ -644,8 +644,8 @@ include($footerform);
 
                                 <div class="hire-wrap">
                                     <h3 class="title">Hire</h3>
-                                    <a href="mailto:order@logodesigndok.co.uk" class="mail">order@logodesigndok.co.uk</a><a
-                                    class="phone" href="tel:+441617680746">+44 161 768 0746 </a>
+                                    <a href="mailto:order@logodesigndok.com" class="mail">order@logodesigndok.com</a><a
+                                    class="phone" href="tel:+18627721016">+1 862 772 1016</a>
                                 </div>
                                 <div class="follow-wrap">
                                     <h3 class="title">Follow</h3>

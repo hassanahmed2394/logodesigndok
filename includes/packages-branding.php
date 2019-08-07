@@ -10,7 +10,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£99.00 <span class="strike">£198.00 Only</span></h2>
+          <h2>$99.00 <span class="strike">$198.00 Only</span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -31,7 +31,7 @@
       <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
       <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i> +1 862 772 1016</a>
       <div class="addnotes ">
-        <p>Add on: £50 for 24 Hours Rush Delivery</p>
+        <p>Add on: $50 for 24 Hours Rush Delivery</p>
         
         
       </div>
@@ -48,7 +48,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£199.00 <span class="strike">£398.00 Only</span></h2>
+          <h2>$199.00 <span class="strike">$398.00 Only</span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -70,7 +70,7 @@
       <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
       <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i> +1 862 772 1016</a>
       <div class="addnotes ">
-       <p>Add on: £50 for 24 Hours Rush Delivery</p>
+       <p>Add on: $50 for 24 Hours Rush Delivery</p>
         
         
       </div>
@@ -87,7 +87,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£399.00 <span class="strike">£798.00 Only</span></h2>
+          <h2>$399.00 <span class="strike">$798.00 Only</span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -109,7 +109,7 @@
       <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
       <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i> +1 862 772 1016</a>
       <div class="addnotes ">
-        <p>Add on: £50 for 24 Hours Rush Delivery</p>
+        <p>Add on: $50 for 24 Hours Rush Delivery</p>
         
         
       </div>
@@ -126,7 +126,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£499.00 <span class="strike">£998.00 Only</span></h2>
+          <h2>$499.00 <span class="strike">$998.00 Only</span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -148,7 +148,7 @@
       <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
       <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i> +1 862 772 1016</a>
       <div class="addnotes ">
-        <p>Add on: £50 for 24 Hours Rush Delivery</p>
+        <p>Add on: $50 for 24 Hours Rush Delivery</p>
         
         
       </div>

@@ -5,7 +5,7 @@
   prefix="og: http://ogp.me/ns#" >
 <head>
     
-<title>Get a custom design logo in just £39.00 you’ll love.</title>
+<title>Get a custom design logo in just $39.00 you’ll love.</title>
 <meta name="description"  content="Logo Design Dok help you to design a custom logo design. Work with experienced designers to create a logo that will grow your brand." />
 
      
@@ -43,7 +43,7 @@ $urhere = "homepage";
         <div class="content" id="test">
         <h1 class="title for-anim-1">
         <span><i>Get a custom design logo
-       in just £39.00 you’ll love.</i></span>
+       in just $39.00 you’ll love.</i></span>
 
         </h1>
 <p class="for-anim-2"><span> Logo Design Dok help you to design a custom logo design.</p>
@@ -1022,7 +1022,7 @@ include($footer);
                             </div>
                             <div class="quest-section"> <a class="quest-title" href="#accordion-3">How much does it cost?</a>
                               <div id="accordion-3" class="quest-content">
-                                <p>Every design category has flexible pricing for all budgets. Logo design starts at US £39.99 <a href="packages.php" class="link link--default">Start by choosing a packages</a>.</p>
+                                <p>Every design category has flexible pricing for all budgets. Logo design starts at US $39.99 <a href="packages.php" class="link link--default">Start by choosing a packages</a>.</p>
                               </div>
                             </div>
                      

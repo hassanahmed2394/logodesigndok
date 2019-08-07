@@ -25,9 +25,9 @@
               <span class="icoo"><i class="fa fa-comment"></i></span>
               <span>Chat With Us</span>
             </a>
-            <a href="tel:+441617680746" class="call_wrap">
+            <a href="tel:+18627721016" class="call_wrap">
              <span class="icoo"><i class="fa fa-phone"></i></span>
-              <span> +44 161 768 0746 </span>
+              <span> +1 862 772 1016 </span>
             </a>
           </div>
 
@@ -75,9 +75,9 @@
                         document.getElementById('flocation').value = window.location.href;
                       </script>
                       <input type="hidden" name="hiddencapcha" value="">
-                       <input type="hidden" name="pc" value="">
-                        <input type="hidden" name="ctry" value="">
-                         <input type="hidden" name="cip" value="">
+                         <input class="" type="hidden" name="ctry" value="">
+                     <input type="hidden" name="pc" value="">
+                     <input type="hidden" name="cip">
                       <input type="hidden" id="flocation" name="flocationURL" value="" />
                         </div>
                       </div>
@@ -111,7 +111,7 @@
 
                <div class="fldst btnattach">
                  <!-- <input class="submit" type="submit" value="" class="btnsb" /> -->
-                 <a class="callus" href="tel:+441617680746"> Free design consultation <i class="fa fa-phone"></i> +44 161 768 0746</a>
+                 <a class="callus" href="tel:+18627721016"> Free design consultation <i class="fa fa-phone"></i> +1 862 772 1016</a>
                </div>
 
                <div class="fldst">
@@ -122,13 +122,16 @@
                 document.getElementById('location').value = window.location.href;
               </script>
               <input type="hidden" name="hiddencapcha" value="">
+                  <input class="" type="hidden" name="ctry" value="">
+                     <input type="hidden" name="pc" value="">
+                     <input type="hidden" name="cip">
               
               <input type="hidden" id="location" name="flocationURL" value="<?php echo 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; ?>" />
                </div>
 
                
               
-               <p class="lst-p">Not ready for a call? <a href="javascript:;" onClick="$zopim.livechat.window.toggle();"> Discuss with our strategist</a></span></p>
+               <p class="lst-p">Not ready for a call? <a href="javascript:;" onClick="setButtonURL();"> Discuss with our strategist</a></span></p>
 
              </form>
            </div>

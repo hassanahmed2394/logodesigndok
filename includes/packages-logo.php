@@ -11,7 +11,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£35.00 <span class="strike">£70.00</span></h2>
+              <h2>$35.00 <span class="strike">$70.00</span></h2>
             </div>
             <div class="packinner">
               <!-- <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p> -->
@@ -50,7 +50,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£69.00 <span class="strike">£138.00</span></h2>
+              <h2>$69.00 <span class="strike">$138.00</span></h2>
             </div>
             <div class="packinner">
               <!-- <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p> -->
@@ -90,7 +90,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£99.00 <span class="strike">£198.00</span></h2>
+              <h2>$99.00 <span class="strike">$198.00</span></h2>
             </div>
             <div class="packinner">
               <!-- <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p> -->
@@ -133,7 +133,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£159.00 <span class="strike">£318.00</span></h2>
+              <h2>$159.00 <span class="strike">$318.00</span></h2>
             </div>
             <div class="packinner">
               <!-- <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p> -->
@@ -174,7 +174,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£199.00 <span class="strike">£398.00</span></h2>
+              <h2>$199.00 <span class="strike">$398.00</span></h2>
             </div>
             <div class="packinner">
               <!-- <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p> -->
@@ -219,7 +219,7 @@
             </div>
             <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£299.00 <span class="strike">£598.00</span></h2>
+              <h2>$299.00 <span class="strike">$598.00</span></h2>
             </div>
             <div class="packinner">
               <!-- <p>The most important functional ties for your teams-perfectly integrated from one vendor.</p> -->

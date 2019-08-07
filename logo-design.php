@@ -43,7 +43,7 @@ $urhere = "homepage";
         <div class="content" id="test">
         <h1 class="title for-anim-1">
         <span><i>Get a custom design logo
-       in just £35.00 you’ll love.</i></span>
+       in just $35.00 you’ll love.</i></span>
 
         </h1>
         <p class="for-anim-2"><span> Logo Design Dok help you to design a custom logo design.  </span><span>Work with experienced designers to create a logo that will grow your brand.</span></p>

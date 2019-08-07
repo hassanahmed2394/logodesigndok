@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Logo Design Starts With £55.99 - Logo Design | Logo Design Dok</title>
+<title>Logo Design Starts With $55.99 - Logo Design | Logo Design Dok</title>
 <meta name="keywords" content="Logo Design Dok">
 <meta name="description" content="Affordable logo design services that's made instantly and stays forever.">
 <link rel='stylesheet' id='main-style-css'  href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css' type="text/css" />
@@ -51,7 +51,7 @@ include($header);
   	<div class="col-lg-4 col-md-4 col-sm-4">
   		<div class="subs-pac bronze ">
           <h3>Bronze logo <br/>Package</h3>
-          <h6><span class="old">£110.98</span> £55.99   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for mid-level startups and organizations.</span></h6>
+          <h6><span class="old">$110.98</span> $55.99   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for mid-level startups and organizations.</span></h6>
           
         <a href="<?php echo $path;?>order?pack=2" class="ordrrrr">Place Your Order</a>
         <div class="actions row">

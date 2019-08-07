@@ -22,7 +22,7 @@ $sender = "formsdesigndok@gmail.com";
 $subscriber_email = $_REQUEST['useremail'];
 $subscriber_subject = "Thankyou!! One of Our Consultant Will Get Back To you Shortly
 ";
-$subscriber_email_data = file_get_contents('https://logodesigndok.co.uk/email/queryFormThankyou.html');
+$subscriber_email_data = file_get_contents('https://logodesigndok.com/email/queryFormThankyou.html');
 
 
 if(isset($_REQUEST['hiddencapcha']) && $_REQUEST['hiddencapcha'] == "" ){
@@ -35,6 +35,9 @@ if(isset($_REQUEST['hiddencapcha']) && $_REQUEST['hiddencapcha'] == "" ){
 
 $body .= "Name: ".$_REQUEST['username']." \n";
 $body .= "Email: ".$_REQUEST['useremail']." \n";
+$body .= "Country Code: ".$_REQUEST['pc']." \n";
+$body .= "Country Name: ".$_REQUEST['ctry']." \n";
+$body .= "Visitor's IP: ".$_REQUEST['cip']." \n";
 $body .= "Phone: ".$_REQUEST['userphone']." \n";
 $body .= "Detail: ".$_REQUEST['userdetail']." \n";
 $body .= "Page URL: ".$_REQUEST['blocationURL']." \n";
@@ -72,12 +75,14 @@ $body .= "file: ".$target." \n";
 
 
 if (mysqli_connect_errno()){  echo "Failed to connect to MySQL: " . mysqli_connect_error(); }
-else{ $sql = 'insert into bottomFORM (cust_name,cust_email,cust_phonenumber,cust_message,pageURL,service_interest,attachment_path) values ("'.$_REQUEST['username'].'","'.$_REQUEST['useremail'].'","'.$_REQUEST['userphone'].'","'.$_REQUEST['userdetail'].'","'.$_REQUEST['blocationURL'].'","'.$myservices.'","'.$target.'")';
+else{ $sql = 'insert into bottomFORM (cust_name,cust_email,cust_phonenumber,cust_message,pageURL,service_interest,attachment_path,countryName,countryCode,VisitorIP) values 
+
+("'.$_REQUEST['username'].'","'.$_REQUEST['useremail'].'","'.$_REQUEST['userphone'].'","'.$_REQUEST['userdetail'].'","'.$_REQUEST['blocationURL'].'","'.$myservices.'","'.$target.'"
+,"'.$_REQUEST['ctry'].'" ,"'.$_REQUEST['pc'].'","'.$_REQUEST['cip'].'")';
 
 mysqli_query($con,$sql);
 mysqli_close($con);
 }
-
 
 $headers = "From: " . $sender . "\r\n";
 $headers .= "MIME-Version: 1.0\r\n";

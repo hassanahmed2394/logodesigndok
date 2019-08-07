@@ -10,7 +10,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£224.00 <span class="strike">£468.00 Only</span></h2>
+              <h2>$224.00 <span class="strike">$468.00 Only</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -34,7 +34,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
             
             
           </div>
@@ -51,7 +51,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£374.00 <span class="strike">£768.00 Only</span></h2>
+              <h2>$374.00 <span class="strike">$768.00 Only</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -68,8 +68,8 @@
                 <li><strong>100%</strong> Satisfaction Guarantee</li>
                 <li><strong>100%</strong> Unique Design Guarantee</li>
                 <li><strong>100%</strong> Money Back Guarantee *</li>
-                <li>Mobile Responsive will be Additional £200*</li>
-                <li>CMS will be Additional <strong>£250*</strong></li>
+                <li>Mobile Responsive will be Additional $200*</li>
+                <li>CMS will be Additional <strong>$250*</strong></li>
               </ul>
               
             </div>
@@ -78,7 +78,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
             
             
           </div>
@@ -95,7 +95,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£824.00 <span class="strike">£1,668.00 Only</span></h2>
+              <h2>$824.00 <span class="strike">$1,668.00 Only</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -114,7 +114,7 @@
                 <li><strong>100%</strong> Satisfaction Guarantee</li>
                 <li><strong>100%</strong> Unique Design Guarantee</li>
                 <li><strong>100%</strong> Money Back Guarantee *</li>
-                <li>Mobile Responsive will be Additional <strong>£200*</strong></li>
+                <li>Mobile Responsive will be Additional <strong>$200*</strong></li>
               </ul>
               
             </div>
@@ -123,7 +123,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
             
             
           </div>
@@ -141,7 +141,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£1,474.00 <span class="strike">£2,968.00 Only</span></h2>
+              <h2>$1,474.00 <span class="strike">$2,968.00 Only</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -177,7 +177,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
             
             
           </div>
@@ -194,7 +194,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£2,374.00 <span class="strike">£4,768.00 Only</span></h2>
+              <h2>$2,374.00 <span class="strike">$4,768.00 Only</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -237,7 +237,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
             
             
           </div>
@@ -255,7 +255,7 @@
           </div>
           <div class="pack-wrap">
             <div class="packpricing">
-              <h2>£2,979.00 <span class="strike">£5,978.00 Only</span></h2>
+              <h2>$2,979.00 <span class="strike">$5,978.00 Only</span></h2>
             </div>
             <div class="packinner">
               <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -305,7 +305,7 @@
           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
           <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
           <div class="addnotes ">
-            <p>Add on: £500 for expedited services</p>
+            <p>Add on: $500 for expedited services</p>
             
             
           </div>

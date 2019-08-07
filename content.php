@@ -194,7 +194,7 @@ We have a track record of delivering thousands of successful publications – me
                                         </p>
                                     <div class="book-links">
                                         <a href="#">Let's discuss</a>
-                                        <a href="tel:+441617680746">+44 161 768 0746</a>
+                                        <a href="tel:+18627721016">+1 862 772 1016</a>
                                     </div>
                                 </div>
                             </div>
@@ -208,7 +208,7 @@ We have a track record of delivering thousands of successful publications – me
                                     <p class="description">You keep 100% of your earnings from your book. We do not charge.</p>
                                     <div class="book-links">
                                         <a href="#">Let's discuss</a>
-                                        <a href="tel:+441617680746">+44 161 768 0746</a>
+                                        <a href="tel:+18627721016">+1 862 772 1016</a>
                                     </div>
                                 </div>
                             </div>
@@ -222,7 +222,7 @@ We have a track record of delivering thousands of successful publications – me
                                     <p class="description">We use one success metric – ROI. We track conversions so you know how Victorious is creating value.</p>
                                 <div class="book-links">
                                     <a href="#">Let's discuss</a>
-                                        <a href="tel:+441617680746">+44 161 768 0746</a>
+                                        <a href="tel:+18627721016">+1 862 772 1016</a>
                                 </div>
                                 </div>
                             </div>
@@ -339,7 +339,7 @@ We have a track record of delivering thousands of successful publications – me
                                     <h3 class="text-left">
 
                                     <span>Call us </span>
-                                    +44 161 768 0746</h3>
+                                    +1 862 772 1016</h3>
 <div class="slash"></div>
                            
                         </div>
@@ -366,7 +366,7 @@ We have a track record of delivering thousands of successful publications – me
                                     <h3 class="text-left">
                                    
                                     <span>Call Toll Free</span>
-                                    +44 161 768 0746</h3>
+                                    +1 862 772 1016</h3>
  
                            
                         </div>
@@ -686,7 +686,7 @@ include($footerform);
                                 <div class="hire-wrap">
                                     <h3 class="title">Hire</h3>
                                     <a href="mailto:order@logodesigndok.com" class="mail">order@logodesigndok.com</a><a
-                                    class="phone" href="tel:+441617680746">+44 161 768 0746</a>
+                                    class="phone" href="tel:+18627721016">+1 862 772 1016</a>
                                 </div>
                                 <div class="follow-wrap">
                                     <h3 class="title">Follow</h3>

@@ -23,6 +23,7 @@ $subscriber_email = $_REQUEST['fEmail'];
 $subscriber_subject = "Thankyou!! One of Our Consultant Will Get Back To you Shortly
 ";
 $subscriber_email_data = file_get_contents('https://logodesigndok.com/email/queryFormThankyou.html');
+
 if(isset($_REQUEST['hiddencapcha']) && $_REQUEST['hiddencapcha'] == "" ){
   if(isset($_REQUEST['fName']) && $_REQUEST['fName'] != "" 
   && isset($_REQUEST['fEmail']) && $_REQUEST['fEmail'] != "" 

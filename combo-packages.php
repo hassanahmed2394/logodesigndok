@@ -45,15 +45,15 @@ $urhere = "homepage";
       <div class="col-lg-4">
         <div class="subs-pac bronze ">
           <h3>Basic </h3>
-          <h6><span class="old">£1,288.00 ONLY</span> £644.00 <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
-          <span>Add on: £500 for expedited services</span>
+          <h6><span class="old">$1,288.00 ONLY</span> $644.00 <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
+          <span>Add on: $500 for expedited services</span>
         <a href="<?php echo $path;?>order?pack=39" class="ordrrrr">ORDER NOW</a>
         <div class="actions row">
                     <div class="col-md-6 col-xs-6">
                           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                     </div>
                     <div class="col-md-6 col-xs-6">
-                        <a href="tel:441617680746 =" class="numberbtn"><i class="fa fa-phone-square"></i>+44 161 768 0746</a>
+                        <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
                     </div>
                     <div class="col-md-12"><p>Let's Create
 
@@ -286,15 +286,15 @@ $urhere = "homepage";
       <div class="col-lg-4">
         <div class="subs-pac silver" style="margin: 60px 0;">
           <h3>Startup</h3>
-          <h6><span class="old">£1,988.00 ONLY</span>£994.00 <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
-          <span>Add on: £500 for expedited services</span>
+          <h6><span class="old">$1,988.00 ONLY</span>$994.00 <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
+          <span>Add on: $500 for expedited services</span>
           <a href="<?php echo $path;?>order?pack=40" class="ordrrrr">Order Now</a>
           <div class="actions row">
                     <div class="col-md-6 col-xs-6">
                           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                     </div>
                     <div class="col-md-6 col-xs-6">
-                        <a href="tel:441617680746" class="numberbtn"><i class="fa fa-phone-square"></i>+44 161 768 0746</a>
+                        <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
                     </div>
                     <div class="col-md-12"><p>Let's Create
 
@@ -310,15 +310,15 @@ $urhere = "homepage";
       <div class="col-lg-4">
         <div class="subs-pac gold" style="margin: 60px 0;">
           <h3>Professional</h3>
-          <h6><span class="old">£2,788.00 ONLY</span>£1,394.00 <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
-          <span>Add on: £500 for expedited services</span>
+          <h6><span class="old">$2,788.00 ONLY</span>$1,394.00 <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
+          <span>Add on: $500 for expedited services</span>
           <a href="<?php echo $path;?>order?pack=41" class="ordrrrr">Order Now</a>
           <div class="actions row">
                     <div class="col-md-6 col-xs-6">
                           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                     </div>
                     <div class="col-md-6 col-xs-6">
-                        <a href="tel:441617680746" class="numberbtn"><i class="fa fa-phone-square"></i>+44 161 768 0746</a>
+                        <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
                     </div>
                     <div class="col-md-12"><p>Let's Create
 
@@ -665,7 +665,7 @@ $urhere = "homepage";
       <div class="col-lg-4">
         <div class="subs-pac silver" style="margin: 60px 0;">
           <h3>Corporate</h3>
-          <h6><span class="old">£3988.00 ONLY</span>£1994.00 <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
+          <h6><span class="old">$3988.00 ONLY</span>$1994.00 <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
           <span>Add on: $50 for 24 Hours Rush Delivery</span>
           <a href="<?php echo $path;?>order?pack=42" class="ordrrrr">Order Now</a>
           <div class="actions row">
@@ -673,7 +673,7 @@ $urhere = "homepage";
                           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                     </div>
                     <div class="col-md-6 col-xs-6">
-                        <a href="tel:441617680746" class="numberbtn"><i class="fa fa-phone-square"></i>+44 161 768 0746</a>
+                        <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
                     </div>
                     <div class="col-md-12"><p>Let's Create
 
@@ -689,15 +689,15 @@ $urhere = "homepage";
       <div class="col-lg-4">
         <div class="subs-pac gold" style="margin: 60px 0;">
           <h3>Elite</h3>
-          <h6><span class="old">£7388.00 ONLY</span>£4999.00  <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
-          <span>Add on: £50 for 24 Hours Rush Delivery</span>
+          <h6><span class="old">$7388.00 ONLY</span>$4999.00  <b>USD</b> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</h6>
+          <span>Add on: $50 for 24 Hours Rush Delivery</span>
           <a href="<?php echo $path;?>order?pack=43" class="ordrrrr">Order Now</a>
           <div class="actions row">
                     <div class="col-md-6 col-xs-6">
                           <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
                     </div>
                     <div class="col-md-6 col-xs-6">
-                        <a href="tel:441617680746" class="numberbtn"><i class="fa fa-phone-square"></i>+44 161 768 0746</a>
+                        <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
                     </div>
                     <div class="col-md-12"><p>Let's Create
 
@@ -1167,7 +1167,7 @@ include($footerform);
                                 <div class="hire-wrap">
                                     <h3 class="title">Hire</h3>
                                     <a href="mailto:order@logodesigndok.com" class="mail">order@logodesigndok.com</a><a
-                                    class="phone" href="tel:+441617680746">+44 161 768 0746</a>
+                                    class="phone" href="tel:+18627721016">+1 862 772 1016</a>
                                 </div>
                                 <div class="follow-wrap">
                                     <h3 class="title">Follow</h3>

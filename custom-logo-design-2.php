@@ -20,7 +20,7 @@ $urhere = "homepage";
 
 </head>
 
-<body class="home  services_pages cld custom_logo_design_page">
+<body class="home  services_pages cld custom_logo_design_page custom-logo-design-2">
 
     <div class="app-content">
       <div class="main">
@@ -81,7 +81,7 @@ $urhere = "homepage";
 
 
 
-<section class="top-home myhome whiteClr cldbanner " style="background-image: url(assets/images/hm2-custom-logo-design.jpg);border-bottom: none;">
+<section class="top-home myhome whiteClr cldbanner " style="background-image: url(assets/images/hm22-custom-logo-design.jpg);border-bottom: none;">
 
     <div class="container-fluid">
     <div class="row">

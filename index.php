@@ -598,7 +598,7 @@ keep us on track in terms of results.</span></p>
                                     <p class="description">Once you’re happy with your design, you can begin discussing your next project together.</p>
                                 <div class="book-links">
                                     <a href="javascript::" onclick="$zopim.livechat.window.toggle()">Let's discuss</a>
-                                        <a href="tel:+441617680746 ">+44 161 768 0746 </a>
+                                        <a href="tel:18627721016">+1 862 772 1016</a>
                                 </div>
                                 </div>
                             </div>
@@ -910,8 +910,8 @@ include($footerform);
 
                                 <div class="hire-wrap">
                                     <h3 class="title">Hire</h3>
-                                    <a href="mailto:order@logodesigndok.co.uk" class="mail">order@logodesigndok.co.uk</a><a
-                                    class="phone" href="tel:441617680746 ">+44 1617 68 0746 </a>
+                                    <a href="mailto:order@logodesigndok.com" class="mail">order@logodesigndok.com</a><a
+                                    class="phone" href="tel:18627721016">+1 862 772 1016</a>
                                 </div>
                                 <div class="follow-wrap">
                                     <h3 class="title">Follow</h3>

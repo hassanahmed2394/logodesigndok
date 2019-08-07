@@ -66,8 +66,8 @@ include($footerform);
 
                                 <div class="hire-wrap">
                                     <h3 class="title">Hire</h3>
-                                    <a href="mailto:order@logodesigndok.co.uk" class="mail">order@logodesigndok.co.uk</a><a
-                                    class="phone" href="tel:+441617680746">+44 161 768 0746</a>
+                                    <a href="mailto:order@logodesigndok.com" class="mail">order@logodesigndok.com</a><a
+                                    class="phone" href="tel:+18627721016">+1 862 772 1016</a>
                                 </div>
                                 <div class="follow-wrap">
                                     <h3 class="title">Follow</h3>

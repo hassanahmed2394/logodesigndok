@@ -48,7 +48,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£ 399.00 <span class="strike"></span></h2>
+          <h2>$399.00 <span class="strike"></span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -87,7 +87,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£ 799.00 <span class="strike"></span></h2>
+          <h2>$799.00 <span class="strike"></span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -127,7 +127,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£ 1495.00 <span class="strike"></span></h2>
+          <h2>$1495.00 <span class="strike"></span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -166,7 +166,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£ 1995.00 <span class="strike"></span></h2>
+          <h2>$1995.00 <span class="strike"></span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>

@@ -4,7 +4,7 @@
     <div class="package-box text-center">
      <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
      <h4 class="category">Basic logo  <br> Package</h4>
-     <span class="actual-price packgePrice"> £35.00</span><span class="sale-price"> £70.00</span>
+     <span class="actual-price packgePrice"> $35.00</span><span class="sale-price"> $70.00</span>
      <div class="scroll">
       <ul style="margin-bottom: 18px;">
        <li><strong>3</strong> Custom Logo Design Concepts by 2 Designers</li>
@@ -48,7 +48,7 @@
   <div class="package-box text-center">
    <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
    <h4 class="category">Startup logo <br> Package</h4>
-   <span class="actual-price packgePrice">£69.00</span><span class="sale-price">£138.00</span>
+   <span class="actual-price packgePrice">$69.00</span><span class="sale-price">$138.00</span>
    <div class="scroll">
     <ul style="margin-bottom: 18px;">
       <li><strong>6</strong> Custom Logo Design Concepts</li>
@@ -93,7 +93,7 @@
   <div class="package-box seller text-center">
    <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
    <h4 class="category">Professional Logo <br> Package</h4>
-   <span class="actual-price packgePrice"> £99.00  </span><span class="sale-price">£198.00</span>
+   <span class="actual-price packgePrice"> $99.00  </span><span class="sale-price">$198.00</span>
    <div class="scroll">
     <ul style="margin-bottom: 18px;">
      <li>Unlimited Logo Design Concepts</li>
@@ -138,7 +138,7 @@
   <div class="package-box text-center">
    <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
    <h4 class="category">Identity Logo <br> Package</h4>
-   <span class="actual-price packgePrice"> £159.00  </span><span class="sale-price">£318.00</span>
+   <span class="actual-price packgePrice"> $159.00  </span><span class="sale-price">$318.00</span>
    <div class="scroll">
     <ul style="margin-bottom: 18px;">
     <li>Unlimited Logo Design Concepts by 8 Designers</li>
@@ -180,7 +180,7 @@
   <div class="package-box text-center">
    <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
    <h4 class="category">Corporate Logo <br> Package</h4>
-   <span class="actual-price packgePrice"> £199.00 </span><span class="sale-price">£398.00</span>
+   <span class="actual-price packgePrice"> $199.00 </span><span class="sale-price">$398.00</span>
    <div class="scroll">
     <ul style="margin-bottom: 18px;">
     <li><strong>UNLIMITED</strong> Logo Design Concepts</li>
@@ -231,7 +231,7 @@
   <div class="package-box text-center">
    <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
    <h4 class="category">Elite  Logo <br> Package</h4>
-   <span class="actual-price packgePrice"> £299.00  </span><span class="sale-price">£598.00</span>
+   <span class="actual-price packgePrice"> $299.00  </span><span class="sale-price">$598.00</span>
    <div class="scroll">
     <ul style="margin-bottom: 18px;">
       <li><strong>UNLIMITED</strong> Logo Design Concepts</li>

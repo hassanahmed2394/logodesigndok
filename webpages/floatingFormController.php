@@ -3,7 +3,7 @@
 include("connectiondb.php");
 
 # LIST EMAIL ADDRESS
-$recipient = "forms@logodesigndok.co.uk";
+$recipient = "forms@logodesigndok.com";
 
 # SUBJECT (Subscribe/Remove)
 $subject = "Floating Form Query";
@@ -16,15 +16,15 @@ $location = "/thankyou";
 
 # SENDER - WE ALSO USE THE RECIPIENT AS SENDER IN THIS SAMPLE
 # DON'T INCLUDE UNFILTERED USER INPUT IN THE MAIL HEADER!
-$sender = "support@logodesigndok.co.uk";
+$sender = "support@logodesigndok.com";
 
 # MAIL BODY
 $subscriber_email = $_REQUEST['fEmail'];
 $subscriber_subject = "Thankyou!! One of Our Consultant Will Get Back To you Shortly
 ";
-$subscriber_email_data = file_get_contents('https://logodesigndok.co.uk/email/queryFormThankyou.html');
+$subscriber_email_data = file_get_contents('https://logodesigndok.com/email/queryFormThankyou.html');
 
-
+if(isset($_REQUEST['hiddencapcha']) && $_REQUEST['hiddencapcha'] == "" ){
   if(isset($_REQUEST['fName']) && $_REQUEST['fName'] != "" 
   && isset($_REQUEST['fEmail']) && $_REQUEST['fEmail'] != "" 
   && isset($_REQUEST['fNumber']) && $_REQUEST['fNumber'] != ""){
@@ -32,11 +32,12 @@ $subscriber_email_data = file_get_contents('https://logodesigndok.co.uk/email/qu
 
 $body .= "Name: ".$_REQUEST['fName']." \n";
 $body .= "Email: ".$_REQUEST['fEmail']." \n";
+$body .= "Country Code: ".$_REQUEST['pc']." \n";
+$body .= "Country Name: ".$_REQUEST['ctry']." \n";
+$body .= "Visitor's IP: ".$_REQUEST['cip']." \n";
 $body .= "Number: ".$_REQUEST['fNumber']." \n";
 $body .= "Message: ".$_REQUEST['fMessage']." \n";
 $body .= "Page URL: ".$_REQUEST['flocationURL']." \n";
-
-// $body .= "Page: ".$ebpage." \n";
 
 // $body .= "Page: ".$ebpage." \n";
 
@@ -178,6 +179,6 @@ $clientmail->send();
  }
 
     
-
+}
 
 ?>

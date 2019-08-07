@@ -1,8 +1,8 @@
 <?php
 $mysql_hostname = "localhost";
-$mysql_user = "uklddok_logodesi_user";
+$mysql_user = "logodesi_user";
 $mysql_password = "Solution123+";
-$mysql_database = "uklddok_logodesi_db";
+$mysql_database = "logodesi_db";
 
 $con = mysqli_connect($mysql_hostname,$mysql_user,$mysql_password,$mysql_database);
 

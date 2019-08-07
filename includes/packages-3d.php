@@ -8,7 +8,7 @@
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£ 2,995.00  <span class="strike"></span></h2>
+          <h2>$2,995.00  <span class="strike"></span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups and brand revamps for companies.</p>
@@ -40,7 +40,7 @@
       <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
       <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
       <div class="addnotes ">
-        <p>10 Business Days <strong>£ 500</strong> Additional for 
+        <p>10 Business Days <strong>$500</strong> Additional for 
 expedited services</p>
         
         
@@ -58,7 +58,7 @@ expedited services</p>
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£ 4,995.00  <span class="strike"></span></h2>
+          <h2>$4,995.00  <span class="strike"></span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups 
@@ -92,7 +92,7 @@ and brand revamps for companies.</p>
       <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
       <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
       <div class="addnotes ">
-       <p>10 Business Days <strong>£ 500</strong> Additional for 
+       <p>10 Business Days <strong>$500</strong> Additional for 
 expedited services</p>
         
         
@@ -110,7 +110,7 @@ expedited services</p>
       </div>
       <div class="pack-wrap">
         <div class="packpricing">
-          <h2>£6,995.00  <span class="strike"></span></h2>
+          <h2>$6,995.00  <span class="strike"></span></h2>
         </div>
         <div class="packinner">
           <p>Suitable for potential super-startups 
@@ -144,7 +144,7 @@ and brand revamps for companies.</p>
       <a href="javascript:;" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
       <a href="tel:18627721016" class="numberbtn"><i class="fa fa-phone-square"></i>+1 862 772 1016</a>
       <div class="addnotes ">
-        <p>10 Business Days <STRONG>£500</STRONG> Additional for 
+        <p>10 Business Days <STRONG>$500</STRONG> Additional for 
 expedited services</p>
         
         
